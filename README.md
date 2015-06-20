@@ -5,4 +5,4 @@ Usage:
   mp4date [--create isodate] [--dry-run] --file fname,
   where isodate e.g. 2015-06-19T21:39 or 2015-06-19
   
-The binary is available under "releases"
+The binary is available under the heading "release"
