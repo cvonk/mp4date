@@ -8,6 +8,7 @@
  * Platform: win32 console app.  Mileage may vary on other platforms.
  *
  * MP4 atom documentation can be found at
+ * http://atomicparsley.sourceforge.net/mpeg-4files.html
  * https://developer.apple.com/library/mac/documentation/QuickTime/QTFF/QTFFChap2/qtff2.html#//apple_ref/doc/uid/TP40000939-CH204-SW1
  *
  * (c) Copyright 2015 by Coert Vonk - coertvonk.com
